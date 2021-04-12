@@ -1,0 +1,13 @@
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\obj\Debug\netcoreapp3.1\VariablesApp.csproj.CoreCompileInputs.cache
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\obj\Debug\netcoreapp3.1\VariablesApp.AssemblyInfoInputs.cache
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\obj\Debug\netcoreapp3.1\VariablesApp.AssemblyInfo.cs
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\bin\Debug\netcoreapp3.1\VariablesApp.exe
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\bin\Debug\netcoreapp3.1\VariablesApp.deps.json
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\bin\Debug\netcoreapp3.1\VariablesApp.runtimeconfig.json
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\bin\Debug\netcoreapp3.1\VariablesApp.runtimeconfig.dev.json
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\bin\Debug\netcoreapp3.1\VariablesApp.dll
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\bin\Debug\netcoreapp3.1\VariablesApp.pdb
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\obj\Debug\netcoreapp3.1\VariablesApp.dll
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\obj\Debug\netcoreapp3.1\VariablesApp.pdb
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\obj\Debug\netcoreapp3.1\VariablesApp.genruntimeconfig.cache
+C:\Users\hawer\source\repos\VariablesApp\VariablesApp\obj\Debug\netcoreapp3.1\VariablesApp.csprojAssemblyReference.cache

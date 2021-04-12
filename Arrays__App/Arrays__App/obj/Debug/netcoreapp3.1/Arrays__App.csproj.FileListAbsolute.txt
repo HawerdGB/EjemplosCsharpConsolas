@@ -1,0 +1,13 @@
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\bin\Debug\netcoreapp3.1\Arrays__App.exe
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\bin\Debug\netcoreapp3.1\Arrays__App.deps.json
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\bin\Debug\netcoreapp3.1\Arrays__App.runtimeconfig.json
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\bin\Debug\netcoreapp3.1\Arrays__App.runtimeconfig.dev.json
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\bin\Debug\netcoreapp3.1\Arrays__App.dll
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\bin\Debug\netcoreapp3.1\Arrays__App.pdb
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\obj\Debug\netcoreapp3.1\Arrays__App.csprojAssemblyReference.cache
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\obj\Debug\netcoreapp3.1\Arrays__App.csproj.CoreCompileInputs.cache
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\obj\Debug\netcoreapp3.1\Arrays__App.AssemblyInfoInputs.cache
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\obj\Debug\netcoreapp3.1\Arrays__App.AssemblyInfo.cs
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\obj\Debug\netcoreapp3.1\Arrays__App.dll
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\obj\Debug\netcoreapp3.1\Arrays__App.pdb
+C:\Users\hawer\source\repos\Arrays__App\Arrays__App\obj\Debug\netcoreapp3.1\Arrays__App.genruntimeconfig.cache

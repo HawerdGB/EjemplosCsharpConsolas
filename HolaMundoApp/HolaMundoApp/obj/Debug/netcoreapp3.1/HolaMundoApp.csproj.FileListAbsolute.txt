@@ -1,0 +1,13 @@
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\bin\Debug\netcoreapp3.1\HolaMundoApp.exe
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\bin\Debug\netcoreapp3.1\HolaMundoApp.deps.json
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\bin\Debug\netcoreapp3.1\HolaMundoApp.runtimeconfig.json
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\bin\Debug\netcoreapp3.1\HolaMundoApp.runtimeconfig.dev.json
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\bin\Debug\netcoreapp3.1\HolaMundoApp.dll
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\bin\Debug\netcoreapp3.1\HolaMundoApp.pdb
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\netcoreapp3.1\HolaMundoApp.csprojAssemblyReference.cache
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\netcoreapp3.1\HolaMundoApp.csproj.CoreCompileInputs.cache
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\netcoreapp3.1\HolaMundoApp.AssemblyInfoInputs.cache
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\netcoreapp3.1\HolaMundoApp.AssemblyInfo.cs
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\netcoreapp3.1\HolaMundoApp.dll
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\netcoreapp3.1\HolaMundoApp.pdb
+C:\Users\hawer\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\netcoreapp3.1\HolaMundoApp.genruntimeconfig.cache

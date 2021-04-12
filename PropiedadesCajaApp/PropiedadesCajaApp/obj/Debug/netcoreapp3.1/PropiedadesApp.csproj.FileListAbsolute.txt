@@ -1,0 +1,13 @@
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\bin\Debug\netcoreapp3.1\PropiedadesApp.exe
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\bin\Debug\netcoreapp3.1\PropiedadesApp.deps.json
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\bin\Debug\netcoreapp3.1\PropiedadesApp.runtimeconfig.json
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\bin\Debug\netcoreapp3.1\PropiedadesApp.runtimeconfig.dev.json
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\bin\Debug\netcoreapp3.1\PropiedadesApp.dll
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\bin\Debug\netcoreapp3.1\PropiedadesApp.pdb
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\obj\Debug\netcoreapp3.1\PropiedadesApp.csprojAssemblyReference.cache
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\obj\Debug\netcoreapp3.1\PropiedadesApp.csproj.CoreCompileInputs.cache
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\obj\Debug\netcoreapp3.1\PropiedadesApp.AssemblyInfoInputs.cache
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\obj\Debug\netcoreapp3.1\PropiedadesApp.AssemblyInfo.cs
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\obj\Debug\netcoreapp3.1\PropiedadesApp.dll
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\obj\Debug\netcoreapp3.1\PropiedadesApp.pdb
+C:\Users\hawer\source\repos\PropiedadesCajaApp\PropiedadesCajaApp\obj\Debug\netcoreapp3.1\PropiedadesApp.genruntimeconfig.cache

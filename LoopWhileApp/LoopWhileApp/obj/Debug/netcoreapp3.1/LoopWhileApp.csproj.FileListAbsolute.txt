@@ -1,0 +1,12 @@
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\bin\Debug\netcoreapp3.1\LoopWhileApp.exe
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\bin\Debug\netcoreapp3.1\LoopWhileApp.deps.json
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\bin\Debug\netcoreapp3.1\LoopWhileApp.runtimeconfig.json
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\bin\Debug\netcoreapp3.1\LoopWhileApp.runtimeconfig.dev.json
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\bin\Debug\netcoreapp3.1\LoopWhileApp.dll
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\bin\Debug\netcoreapp3.1\LoopWhileApp.pdb
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\obj\Debug\netcoreapp3.1\LoopWhileApp.csproj.CoreCompileInputs.cache
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\obj\Debug\netcoreapp3.1\LoopWhileApp.AssemblyInfoInputs.cache
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\obj\Debug\netcoreapp3.1\LoopWhileApp.AssemblyInfo.cs
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\obj\Debug\netcoreapp3.1\LoopWhileApp.dll
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\obj\Debug\netcoreapp3.1\LoopWhileApp.pdb
+C:\Users\hawer\source\repos\LoopWhileApp\LoopWhileApp\obj\Debug\netcoreapp3.1\LoopWhileApp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\bin\Debug\netcoreapp3.1\Clases__BasicoApp.exe
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\bin\Debug\netcoreapp3.1\Clases__BasicoApp.deps.json
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\bin\Debug\netcoreapp3.1\Clases__BasicoApp.runtimeconfig.json
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\bin\Debug\netcoreapp3.1\Clases__BasicoApp.runtimeconfig.dev.json
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\bin\Debug\netcoreapp3.1\Clases__BasicoApp.dll
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\bin\Debug\netcoreapp3.1\Clases__BasicoApp.pdb
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\obj\Debug\netcoreapp3.1\Clases__BasicoApp.csprojAssemblyReference.cache
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\obj\Debug\netcoreapp3.1\Clases__BasicoApp.csproj.CoreCompileInputs.cache
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\obj\Debug\netcoreapp3.1\Clases__BasicoApp.AssemblyInfoInputs.cache
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\obj\Debug\netcoreapp3.1\Clases__BasicoApp.AssemblyInfo.cs
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\obj\Debug\netcoreapp3.1\Clases__BasicoApp.dll
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\obj\Debug\netcoreapp3.1\Clases__BasicoApp.pdb
+C:\Users\hawer\source\repos\Clases__BasicoApp\Clases__BasicoApp\obj\Debug\netcoreapp3.1\Clases__BasicoApp.genruntimeconfig.cache

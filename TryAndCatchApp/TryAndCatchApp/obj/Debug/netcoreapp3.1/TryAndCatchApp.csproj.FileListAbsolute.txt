@@ -1,0 +1,13 @@
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\bin\Debug\netcoreapp3.1\TryAndCatchApp.exe
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\bin\Debug\netcoreapp3.1\TryAndCatchApp.deps.json
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\bin\Debug\netcoreapp3.1\TryAndCatchApp.runtimeconfig.json
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\bin\Debug\netcoreapp3.1\TryAndCatchApp.runtimeconfig.dev.json
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\bin\Debug\netcoreapp3.1\TryAndCatchApp.dll
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\bin\Debug\netcoreapp3.1\TryAndCatchApp.pdb
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\obj\Debug\netcoreapp3.1\TryAndCatchApp.csprojAssemblyReference.cache
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\obj\Debug\netcoreapp3.1\TryAndCatchApp.csproj.CoreCompileInputs.cache
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\obj\Debug\netcoreapp3.1\TryAndCatchApp.AssemblyInfoInputs.cache
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\obj\Debug\netcoreapp3.1\TryAndCatchApp.AssemblyInfo.cs
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\obj\Debug\netcoreapp3.1\TryAndCatchApp.dll
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\obj\Debug\netcoreapp3.1\TryAndCatchApp.pdb
+C:\Users\hawer\source\repos\TryAndCatchApp\TryAndCatchApp\obj\Debug\netcoreapp3.1\TryAndCatchApp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\bin\Debug\netcoreapp3.1\FibonaciApp.exe
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\bin\Debug\netcoreapp3.1\FibonaciApp.deps.json
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\bin\Debug\netcoreapp3.1\FibonaciApp.runtimeconfig.json
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\bin\Debug\netcoreapp3.1\FibonaciApp.runtimeconfig.dev.json
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\bin\Debug\netcoreapp3.1\FibonaciApp.dll
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\bin\Debug\netcoreapp3.1\FibonaciApp.pdb
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\obj\Debug\netcoreapp3.1\FibonaciApp.csprojAssemblyReference.cache
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\obj\Debug\netcoreapp3.1\FibonaciApp.csproj.CoreCompileInputs.cache
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\obj\Debug\netcoreapp3.1\FibonaciApp.AssemblyInfoInputs.cache
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\obj\Debug\netcoreapp3.1\FibonaciApp.AssemblyInfo.cs
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\obj\Debug\netcoreapp3.1\FibonaciApp.dll
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\obj\Debug\netcoreapp3.1\FibonaciApp.pdb
+C:\Users\hawer\source\repos\FibonaciApp\FibonaciApp\obj\Debug\netcoreapp3.1\FibonaciApp.genruntimeconfig.cache

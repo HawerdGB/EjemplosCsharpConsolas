@@ -1,0 +1,13 @@
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\bin\Debug\netcoreapp3.1\LoopForApp.exe
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\bin\Debug\netcoreapp3.1\LoopForApp.deps.json
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\bin\Debug\netcoreapp3.1\LoopForApp.runtimeconfig.json
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\bin\Debug\netcoreapp3.1\LoopForApp.runtimeconfig.dev.json
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\bin\Debug\netcoreapp3.1\LoopForApp.dll
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\bin\Debug\netcoreapp3.1\LoopForApp.pdb
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\obj\Debug\netcoreapp3.1\LoopForApp.csprojAssemblyReference.cache
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\obj\Debug\netcoreapp3.1\LoopForApp.csproj.CoreCompileInputs.cache
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\obj\Debug\netcoreapp3.1\LoopForApp.AssemblyInfoInputs.cache
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\obj\Debug\netcoreapp3.1\LoopForApp.AssemblyInfo.cs
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\obj\Debug\netcoreapp3.1\LoopForApp.dll
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\obj\Debug\netcoreapp3.1\LoopForApp.pdb
+C:\Users\hawer\source\repos\LoopForApp\LoopForApp\obj\Debug\netcoreapp3.1\LoopForApp.genruntimeconfig.cache

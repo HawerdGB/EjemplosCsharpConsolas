@@ -1,0 +1,13 @@
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\bin\Debug\netcoreapp3.1\OperadoresApp.exe
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\bin\Debug\netcoreapp3.1\OperadoresApp.deps.json
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\bin\Debug\netcoreapp3.1\OperadoresApp.runtimeconfig.json
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\bin\Debug\netcoreapp3.1\OperadoresApp.runtimeconfig.dev.json
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\bin\Debug\netcoreapp3.1\OperadoresApp.dll
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\bin\Debug\netcoreapp3.1\OperadoresApp.pdb
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\obj\Debug\netcoreapp3.1\OperadoresApp.csprojAssemblyReference.cache
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\obj\Debug\netcoreapp3.1\OperadoresApp.csproj.CoreCompileInputs.cache
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\obj\Debug\netcoreapp3.1\OperadoresApp.AssemblyInfoInputs.cache
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\obj\Debug\netcoreapp3.1\OperadoresApp.AssemblyInfo.cs
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\obj\Debug\netcoreapp3.1\OperadoresApp.dll
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\obj\Debug\netcoreapp3.1\OperadoresApp.pdb
+C:\Users\hawer\source\repos\OperadoresApp\OperadoresApp\obj\Debug\netcoreapp3.1\OperadoresApp.genruntimeconfig.cache
